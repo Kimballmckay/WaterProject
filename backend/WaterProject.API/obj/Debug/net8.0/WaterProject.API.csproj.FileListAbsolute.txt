@@ -70,3 +70,9 @@ C:\Users\kimba\OneDrive\Desktop\WaterProject\backend\WaterProject.API\obj\Debug\
 C:\Users\kimba\OneDrive\Desktop\WaterProject\backend\WaterProject.API\obj\Debug\net8.0\WaterProject.API.genruntimeconfig.cache
 C:\Users\kimba\OneDrive\Desktop\WaterProject\backend\WaterProject.API\obj\Debug\net8.0\ref\WaterProject.API.dll
 C:\Users\kimba\OneDrive\Desktop\WaterProject\backend\WaterProject.API\bin\Debug\net8.0\WaterProject.sqlite
+C:\Users\kimba\OneDrive\Desktop\WaterProject\backend\WaterProject.API\bin\Debug\net8.0\publish\web.config
+C:\Users\kimba\OneDrive\Desktop\WaterProject\backend\WaterProject.API\bin\Debug\net8.0\publish\appsettings.Development.json
+C:\Users\kimba\OneDrive\Desktop\WaterProject\backend\WaterProject.API\bin\Debug\net8.0\publish\appsettings.json
+C:\Users\kimba\OneDrive\Desktop\WaterProject\backend\WaterProject.API\bin\Debug\net8.0\publish\WaterProject.API.deps.json
+C:\Users\kimba\OneDrive\Desktop\WaterProject\backend\WaterProject.API\bin\Debug\net8.0\publish\WaterProject.API.runtimeconfig.json
+C:\Users\kimba\OneDrive\Desktop\WaterProject\backend\WaterProject.API\bin\Debug\net8.0\publish\WaterProject.API.staticwebassets.endpoints.json
