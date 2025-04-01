@@ -69,3 +69,4 @@ C:\Users\kimba\OneDrive\Desktop\WaterProject\backend\WaterProject.API\obj\Debug\
 C:\Users\kimba\OneDrive\Desktop\WaterProject\backend\WaterProject.API\obj\Debug\net8.0\WaterProject.API.pdb
 C:\Users\kimba\OneDrive\Desktop\WaterProject\backend\WaterProject.API\obj\Debug\net8.0\WaterProject.API.genruntimeconfig.cache
 C:\Users\kimba\OneDrive\Desktop\WaterProject\backend\WaterProject.API\obj\Debug\net8.0\ref\WaterProject.API.dll
+C:\Users\kimba\OneDrive\Desktop\WaterProject\backend\WaterProject.API\bin\Debug\net8.0\WaterProject.sqlite
