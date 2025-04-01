@@ -11,6 +11,10 @@
       "RelativeMoniker": "D:0:0:{215099A0-ECC5-D47A-8CC1-484D302D864E}|backend\\WaterProject.API\\WaterProject.API.csproj|solutionrelative:backend\\waterproject.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{215099A0-ECC5-D47A-8CC1-484D302D864E}|backend\\WaterProject.API\\WaterProject.API.csproj|c:\\users\\kimba\\onedrive\\desktop\\waterproject\\backend\\waterproject.api\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{215099A0-ECC5-D47A-8CC1-484D302D864E}|backend\\WaterProject.API\\WaterProject.API.csproj|solutionrelative:backend\\waterproject.api\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{215099A0-ECC5-D47A-8CC1-484D302D864E}|backend\\WaterProject.API\\WaterProject.API.csproj|c:\\users\\kimba\\onedrive\\desktop\\waterproject\\backend\\waterproject.api\\data\\waterdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{215099A0-ECC5-D47A-8CC1-484D302D864E}|backend\\WaterProject.API\\WaterProject.API.csproj|solutionrelative:backend\\waterproject.api\\data\\waterdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -34,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,13 +54,25 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\kimba\\OneDrive\\Desktop\\WaterProject\\backend\\WaterProject.API\\.gitignore",
+              "RelativeDocumentMoniker": "backend\\WaterProject.API\\.gitignore",
+              "ToolTip": "C:\\Users\\kimba\\OneDrive\\Desktop\\WaterProject\\backend\\WaterProject.API\\.gitignore",
+              "RelativeToolTip": "backend\\WaterProject.API\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-25T17:33:04.509Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "WaterController.cs",
               "DocumentMoniker": "C:\\Users\\kimba\\OneDrive\\Desktop\\WaterProject\\backend\\WaterProject.API\\Controllers\\WaterController.cs",
               "RelativeDocumentMoniker": "backend\\WaterProject.API\\Controllers\\WaterController.cs",
               "ToolTip": "C:\\Users\\kimba\\OneDrive\\Desktop\\WaterProject\\backend\\WaterProject.API\\Controllers\\WaterController.cs",
               "RelativeToolTip": "backend\\WaterProject.API\\Controllers\\WaterController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAuwBYAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-16T04:37:52.093Z",
               "EditorCaption": ""
@@ -75,7 +91,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\kimba\\OneDrive\\Desktop\\WaterProject\\backend\\WaterProject.API\\appsettings.json",
               "RelativeDocumentMoniker": "backend\\WaterProject.API\\appsettings.json",
@@ -87,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\kimba\\OneDrive\\Desktop\\WaterProject\\backend\\WaterProject.API\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "backend\\WaterProject.API\\Properties\\launchSettings.json",
@@ -99,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "WaterDbContext.cs",
               "DocumentMoniker": "C:\\Users\\kimba\\OneDrive\\Desktop\\WaterProject\\backend\\WaterProject.API\\Data\\WaterDbContext.cs",
               "RelativeDocumentMoniker": "backend\\WaterProject.API\\Data\\WaterDbContext.cs",
@@ -111,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Project.cs",
               "DocumentMoniker": "C:\\Users\\kimba\\OneDrive\\Desktop\\WaterProject\\backend\\WaterProject.API\\Data\\Project.cs",
               "RelativeDocumentMoniker": "backend\\WaterProject.API\\Data\\Project.cs",
